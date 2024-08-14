@@ -1,0 +1,2 @@
+# Enhancing-Ocean-Biodiversity-Conservation-Efforts-Around-the-Indian-Coast
+The goal of this project is to save the marine life that is endangered by climate change and human activity along the Indian coast. Our goal is to investigate and pinpoint crucial regions that require immediate conservation by utilizing cutting-edge technologies on AWS, such as artificial intelligence and machine learning. 
